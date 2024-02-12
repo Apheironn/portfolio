@@ -1,11 +1,17 @@
 # Table of Contents
 - [Computer Vision](#-computer-vision)
-  - [Galaxy Images Classification](galaxy-images-classification---tensorflow--flask--docker--aws)
+  - [Galaxy Images Classification](#galaxy-images-classification---tensorflow--flask--docker--aws)
+  - [Automated Component Segmentation in Production Lines](#automated-component-segmentation-in-production-lines)
+  - [Korug - Robotic Drone](#korug---robotic-drone)
+  - [Moon Shape Classification](#moon-shape-classification-using-yolo-and-roboflow)
+  - [Object Detection App](#object-detection-app)
 - [Data Science](#-data-science)
-
+  - [End-to-End Car Price Regression](#end-to-end-car-price-regression---mlflow--flask)
+  - [Time Series Analysis for Markets](#time-series-analysis-for-markets)
+  - [End-to-End House Price Regression](#end-to-end-house-price-regression---docker--flask)
+  - [Machine Learning Algorithms from Scratch](#machine-learning-algorithms-from-scratch)
 
 *Updated: 13/02/2024*
-
  
 # 🤖 Computer Vision 
 
