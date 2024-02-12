@@ -1,6 +1,6 @@
 ## Table of Contents
 - [Computer Vision](#-computer-vision)
-  - [Moon Shape Classification using YOLO and Roboflow](moon-shape-classification-using-yolo-and-roboflow)
+  - [Galaxy Images Classification](galaxy-images-classification---tensorflow-|-flask-|-docker-|-aws)
 - [Data Science](#-data-science)
 
 
@@ -39,4 +39,20 @@ Developed a computer vision model using YOLO and Roboflow for moon shape classif
 ### End-to-End Car Price Regression - MLflow | Flask
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Apheironn/End-to-End-Machine-Learning-MLflow-Project)
 
-<img src="https://github.com/Apheironn/End-to-End-Machine-Learning-MLflow-Project/blob/main/img/gui.png" width="700">
+- Developed a regression model to predict car prices using 19 columns as features.
+- Utilized MLflow to track experiments, including parameter tuning, model performance, and version control.
+- Achieved an R-squared value of %79.
+- Implemented DecisionTreeRegressor to establish relationships between features and car price.
+
+<img src="images//gui.png" width="700">
+<img src="images//mlflow.png" width="700">
+
+### End-to-End House Price Regression - Docker | Flask
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Apheironn/End-to-End-Machine-Learning-House-Price-Predict-Project)
+
+- Engineered a predictive model to estimate house prices based on 12 distinct variables.
+- Employed CatBoost, a gradient boosting framework, to train the regression model owing to its high performance and handling of categorical features.
+- Packaged the application using Docker to ensure consistent environments and reproducibility across different systems.
+
+<img src="images//webapp.png" width="700">
