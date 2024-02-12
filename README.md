@@ -84,3 +84,18 @@ The object detection app serves as a practical implementation of the MobileNet A
 - Packaged the application using Docker to ensure consistent environments and reproducibility across different systems.
 
 <img src="images//webapp.png" width="700">
+
+### Machine Learning Algorithms from Scratch
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Apheironn/ml-algorithms-from-scratch)
+
+This repository is a collection of Jupyter notebooks, each implementing a different machine learning algorithm from scratch in Python. The purpose is to demonstrate the inner workings of the algorithms and provide a hands-on experience with the fundamentals of machine learning.
+
+#### Contents
+
+- Linear Regression
+- Decision Trees.ipynb
+- K-Nearest Neighbors
+- Dbscan
+- KNN
+- Ensemble Learning
