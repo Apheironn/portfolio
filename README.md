@@ -19,7 +19,7 @@ This project focuses on using deep learning techniques to classify different typ
 - Ensure scalability and consistencywith Docker for efficient deployment
 - Provide global availability by distributing the project on AWS EC2 for broad use
 
-<img src="https://github.com/Apheironn/End-to-End-Galaxy-Classification/blob/main/flowcharts/Pipeline.png" width="700">
+<img src="images/Pipeline.png" width="700">
 
 
 ### Moon Shape Classification using YOLO and Roboflow
@@ -44,8 +44,8 @@ Developed a computer vision model using YOLO and Roboflow for moon shape classif
 - Achieved an R-squared value of %79.
 - Implemented DecisionTreeRegressor to establish relationships between features and car price.
 
-<img src="images//gui.png" width="700">
-<img src="images//mlflow.png" width="700">
+<img src="images/gui.png" width="700">
+<img src="images/mlflow.png" width="700">
 
 ### End-to-End House Price Regression - Docker | Flask
 
