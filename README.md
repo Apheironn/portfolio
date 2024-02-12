@@ -4,7 +4,7 @@
 - [Data Science](#-data-science)
 
 
-*Updated: 12/02/2024*
+*Updated: 13/02/2024*
 
  
 # 🤖 Computer Vision 
@@ -21,9 +21,15 @@ This project focuses on using deep learning techniques to classify different typ
 
 <img src="images/Pipeline.png" width="700">
 
-### OpenCV Production Line Object Detection
+### Automated Component Segmentation in Production Lines
+
+- Implemented a robust computer vision solution utilizing OpenCV to identify and segment 15 distinct components on a production line, ensuring high-precision part recognition and sorting.
+- Developed an algorithm using the ORB (Oriented FAST and Rotated BRIEF) feature detector to create descriptors for each component, coupled with a BFMatcher for accurate matching, allowing for real-time component identification.
+- Successfully deployed the system to operate directly on the production line, demonstrating high accuracy in component separation, significantly optimizing the manufacturing process and reducing manual inspection workload.
 
 ![Object Detection](video/opencv.gif)
+
+
 
 ### Moon Shape Classification using YOLO and Roboflow
 
