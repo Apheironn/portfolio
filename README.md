@@ -29,7 +29,11 @@ This project focuses on using deep learning techniques to classify different typ
 
 ![Object Detection](video/opencv.gif)
 
+### Korug - Robotic Drone
+Korug is a robotic drone that has dual air and land maneuverability and can perform cyber attacks and enter-and-take out operations; It came first in the first-class engineering project competition by presenting applications in the fields of
+military, agriculture, disaster relief and health.
 
+![Drive via PS4](video/surus.gif)
 
 ### Moon Shape Classification using YOLO and Roboflow
 
