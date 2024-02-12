@@ -68,6 +68,13 @@ The object detection app serves as a practical implementation of the MobileNet A
 <img src="images/gui.png" width="700">
 <img src="images/mlflow.png" width="700">
 
+### Time Series Analysis for Markets
+
+- The dataset includes information on products sold in different stores over a specific time period from January 1, 2015, to July 31, 2015.
+- The primary objective of this analysis is to understand how promotions and other factors might influence sales in different stores and for various products. By studying the data, we aim to provide insights and recommendations that can help optimize promotion strategies and improve overall sales performance.
+<img src="images/invent.png" width="700">
+
+
 ### End-to-End House Price Regression - Docker | Flask
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Apheironn/End-to-End-Machine-Learning-House-Price-Predict-Project)
