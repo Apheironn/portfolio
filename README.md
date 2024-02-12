@@ -1,4 +1,4 @@
-## Table of Contents
+# Table of Contents
 - [Computer Vision](#-computer-vision)
   - [Galaxy Images Classification](galaxy-images-classification---tensorflow--flask--docker--aws)
 - [Data Science](#-data-science)
@@ -7,7 +7,7 @@
 *Updated: 12/02/2024*
 
  
-## 🤖 Computer Vision 
+# 🤖 Computer Vision 
 
 ### Galaxy Images Classification - Tensorflow | Flask | Docker | AWS
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Apheironn/End-to-End-Galaxy-Classification)
@@ -21,6 +21,9 @@ This project focuses on using deep learning techniques to classify different typ
 
 <img src="images/Pipeline.png" width="700">
 
+### OpenCV Production Line Object Detection
+
+[![OpenCV](images/moon.png)](videos/opencv.mp4 "OpenCV Object Detection")
 
 ### Moon Shape Classification using YOLO and Roboflow
 
@@ -42,7 +45,8 @@ The object detection app serves as a practical implementation of the MobileNet A
 <img src="images/mobile.png" width="500">
 
 
-## 📈 Data Science
+
+# 📈 Data Science
 ### End-to-End Car Price Regression - MLflow | Flask
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Apheironn/End-to-End-Machine-Learning-MLflow-Project)
 
