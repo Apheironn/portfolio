@@ -23,7 +23,7 @@ This project focuses on using deep learning techniques to classify different typ
 
 ### OpenCV Production Line Object Detection
 
-[![OpenCV](images/moon.png)](video/opencv.mp4 "OpenCV Object Detection")
+![Object Detection](video/opencv.gif)
 
 ### Moon Shape Classification using YOLO and Roboflow
 
