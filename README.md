@@ -9,18 +9,18 @@ toc_icon: "bookmark"
 *Updated: 12/02/2024*
 
 ## 🤖 Computer Vision
-### Object Detection with YOLO
+### Moon Shape Classification using YOLO and Roboflow
 
-<img src="images/moon.png" width="200">
 
-A series of notebooks to dive deep into popular datasets for object detection and learn how to train Detectron2 on custom datasets.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/object-detection-detectron2)
+Developed a computer vision model using YOLO and Roboflow for moon shape classification.
 
-- [Notebook 4](https://github.com/chriskhanhtran/object-detection-detectron2/blob/master/04-train-big.ipynb): Train Detectron2 on Open Images dataset to detect musical instruments.
-- [Notebook 5](https://github.com/chriskhanhtran/object-detection-detectron2/blob/master/05-kaggle-global-wheat-detection.ipynb): Apply Detectron2 on [Kaggle Global Wheat Detection Competition](https://www.kaggle.com/c/global-wheat-detection).
+- Handled a dataset of 1370 images with 8 classes.
+- Implemented preprocessing techniques like auto-orient and resizing to 640x640 pixels.
+- Enhanced dataset quality with augmentations: grayscale, saturation, brightness, exposure adjustments, blur, and noise.
+- Calculated an F1 Score of approximately 81.0%, balancing precision and recall, signifying a robust model performance in moon shape classification.
 
-<img src="https://raw.githubusercontent.com/chriskhanhtran/object-detection-detectron2/master/images/output_04.png" width="580">{: .align-center}
+<img src="images/moon.png" width="500">
 
 ### Visual Recognition for Vietnamese Foods
 
