@@ -1,6 +1,6 @@
 ## Table of Contents
 - [Computer Vision](#-computer-vision)
-  - [Galaxy Images Classification](galaxy-images-classification-tensorflow-|-flask-|-docker-|-aws)
+  - [Galaxy Images Classification](galaxy-images-classification---tensorflow--flask--docker--aws)
 - [Data Science](#-data-science)
 
 
