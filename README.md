@@ -1,6 +1,6 @@
 ## Table of Contents
 - [Computer Vision](#-computer-vision)
-  - [Galaxy Images Classification](galaxy-images-classification---tensorflow-|-flask-|-docker-|-aws)
+  - [Galaxy Images Classification](galaxy-images-classification---tensorflow--flask--docker--aws)
 - [Data Science](#-data-science)
 
 
@@ -33,6 +33,13 @@ Developed a computer vision model using YOLO and Roboflow for moon shape classif
 
 <img src="images/moon.png" width="500">
 
+### Object Detection App
+
+The object detection app serves as a practical implementation of the MobileNet AI model, a cutting-edge neural network architecture that brings efficiency to on-device processing. Developed with a quantization scheme tailored for enhanced on-device performance, the model has undergone rigorous testing on MobileNets. Its prowess is evident in the notable improvements it brings to ImageNet classification and COCO detection on widely used CPUs.
+
+<img src="images/mobile1.png">
+
+<img src="images/mobile.png" width="500">
 
 
 ## 📈 Data Science
